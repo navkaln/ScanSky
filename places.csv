@@ -1,0 +1,1024 @@
+,CityId,CityName,CountryName,IataCode,Name,PlaceId,SkyscannerCode,Type
+0,,,,,United Arab Emirates,837,AE,Country
+1,,,,,Afghanistan,838,AF,Country
+2,,,,,Antigua and Barbuda,839,AG,Country
+3,,,,,Albania,844,AL,Country
+4,,,,,Armenia,845,AM,Country
+5,,,,,Angola,847,AO,Country
+6,,,,,Argentina,850,AR,Country
+7,,,,,Austria,852,AT,Country
+8,,,,,Australia,853,AU,Country
+9,,,,,Aruba,855,AW,Country
+10,,,,,Azerbaijan,858,AZ,Country
+11,,,,,Bosnia and Herzegovina,881,BA,Country
+12,,,,,Barbados,882,BB,Country
+13,,,,,Bangladesh,884,BD,Country
+14,,,,,Belgium,885,BE,Country
+15,,,,,Burkina Faso,886,BF,Country
+16,,,,,Bulgaria,887,BG,Country
+17,,,,,Bahrain,888,BH,Country
+18,,,,,Burundi,889,BI,Country
+19,,,,,Benin,890,BJ,Country
+20,,,,,Bermuda,893,BM,Country
+21,,,,,Brunei,894,BN,Country
+22,,,,,Caribbean Netherlands,897,BQ,Country
+23,,,,,Brazil,898,BR,Country
+24,,,,,Bahamas,899,BS,Country
+25,,,,,Botswana,903,BW,Country
+26,,,,,Belarus,905,BY,Country
+27,,,,,Belize,906,BZ,Country
+28,,,,,Canada,929,CA,Country
+29,,,,,DR Congo,932,CD,Country
+30,,,,,Central African Republic,934,CF,Country
+31,,,,,Congo,935,CG,Country
+32,,,,,Switzerland,936,CH,Country
+33,,,,,Ivory Coast,937,CI,Country
+34,,,,,Chile,940,CL,Country
+35,,,,,Cameroon,941,CM,Country
+36,,,,,China,942,CN,Country
+37,,,,,Colombia,943,CO,Country
+38,,,,,Costa Rica,946,CR,Country
+39,,,,,Cuba,949,CU,Country
+40,,,,,Curacao,951,CW,Country
+41,,,,,Cyprus,953,CY,Country
+42,,,,,Czech Republic,954,CZ,Country
+43,,,,,Germany,981,DE,Country
+44,,,,,Djibouti,986,DJ,Country
+45,,,,,Denmark,987,DK,Country
+46,,,,,Dominican Republic,991,DO,Country
+47,,,,,Algeria,1002,DZ,Country
+48,,,,,Ecuador,1027,EC,Country
+49,,,,,Estonia,1029,EE,Country
+50,,,,,Egypt,1031,EG,Country
+51,,,,,Eritrea,1042,ER,Country
+52,,,,,Spain,1043,ES,Country
+53,,,,,Ethiopia,1044,ET,Country
+54,,,,,Finland,1081,FI,Country
+55,,,,,Fiji,1082,FJ,Country
+56,,,,,France,1090,FR,Country
+57,,,,,Gabon,1121,GA,Country
+58,,,,,Grenada,1124,GD,Country
+59,,,,,Georgia,1125,GE,Country
+60,,,,,French Guiana,1126,GF,Country
+61,,,,,Ghana,1128,GH,Country
+62,,,,,Gibraltar,1129,GI,Country
+63,,,,,Gambia,1133,GM,Country
+64,,,,,Guinea,1134,GN,Country
+65,,,,,Guadeloupe,1136,GP,Country
+66,,,,,Equatorial Guinea,1137,GQ,Country
+67,,,,,Greece,1138,GR,Country
+68,,,,,Guatemala,1140,GT,Country
+69,,,,,Guam,1141,GU,Country
+70,,,,,Hong Kong,1179,HK,Country
+71,,,,,Honduras,1182,HN,Country
+72,,,,,Croatia,1186,HR,Country
+73,,,,,Hungary,1189,HU,Country
+74,,,,,Indonesia,1220,ID,Country
+75,,,,,Ireland,1221,IE,Country
+76,,,,,Israel,1228,IL,Country
+77,,,,,India,1230,IN,Country
+78,,,,,Iraq,1233,IQ,Country
+79,,,,,Iran,1234,IR,Country
+80,,,,,Iceland,1235,IS,Country
+81,,,,,Italy,1236,IT,Country
+82,,,,,Jamaica,1277,JM,Country
+83,,,,,Jordan,1279,JO,Country
+84,,,,,Japan,1280,JP,Country
+85,,,,,Kenya,1317,KE,Country
+86,,,,,Kyrgyzstan,1319,KG,Country
+87,,,,,Cambodia,1320,KH,Country
+88,,,,,Comoros,1325,KM,Country
+89,,,,,Saint Kitts and Nevis,1326,KN,Country
+90,,,,,Kosovo,1327,KO,Country
+91,,,,,South Korea,1330,KR,Country
+92,,,,,Kuwait,1335,KW,Country
+93,,,,,Cayman Islands,1337,KY,Country
+94,,,,,Kazakhstan,1338,KZ,Country
+95,,,,,Laos,1361,LA,Country
+96,,,,,Lebanon,1362,LB,Country
+97,,,,,Saint Lucia,1363,LC,Country
+98,,,,,Sri Lanka,1371,LK,Country
+99,,,,,Liberia,1378,LR,Country
+100,,,,,Lithuania,1380,LT,Country
+101,,,,,Luxembourg,1381,LU,Country
+102,,,,,Latvia,1382,LV,Country
+103,,,,,Morocco,1409,MA,Country
+104,,,,,Moldova,1412,MD,Country
+105,,,,,Montenegro,1413,ME,Country
+106,,,,,Madagascar,1415,MG,Country
+107,,,,,Republic of Macedonia,1419,MK,Country
+108,,,,,Mali,1420,ML,Country
+109,,,,,Myanmar,1421,MM,Country
+110,,,,,Mongolia,1422,MN,Country
+111,,,,,Macau,1423,MO,Country
+112,,,,,Northern Mariana Islands,1424,MP,Country
+113,,,,,Martinique,1425,MQ,Country
+114,,,,,Mauritania,1426,MR,Country
+115,,,,,Malta,1428,MT,Country
+116,,,,,Mauritius,1429,MU,Country
+117,,,,,Maldives,1430,MV,Country
+118,,,,,Malawi,1431,MW,Country
+119,,,,,Mexico,1432,MX,Country
+120,,,,,Malaysia,1433,MY,Country
+121,,,,,Mozambique,1434,MZ,Country
+122,,,,,Namibia,1457,,Country
+123,,,,,Niger,1461,NE,Country
+124,,,,,Nigeria,1463,NG,Country
+125,,,,,Nicaragua,1465,NI,Country
+126,,,,,Netherlands,1468,NL,Country
+127,,,,,Norway,1471,NO,Country
+128,,,,,Nepal,1472,NP,Country
+129,,,,,New Zealand,1482,NZ,Country
+130,,,,,Oman,1517,OM,Country
+131,,,,,Panama,1553,PA,Country
+132,,,,,Peru,1557,PE,Country
+133,,,,,French Polynesia,1558,PF,Country
+134,,,,,Philippines,1560,PH,Country
+135,,,,,Pakistan,1563,PK,Country
+136,,,,,Poland,1564,PL,Country
+137,,,,,Puerto Rico,1570,PR,Country
+138,,,,,Portugal,1572,PT,Country
+139,,,,,Palau,1575,PW,Country
+140,,,,,Qatar,1601,QA,Country
+141,,,,,Reunion,1653,RE,Country
+142,,,,,Romania,1663,RO,Country
+143,,,,,Serbia,1667,RS,Country
+144,,,,,Russia,1669,RU,Country
+145,,,,,Rwanda,1671,RW,Country
+146,,,,,Saudi Arabia,1697,SA,Country
+147,,,,,Seychelles,1699,SC,Country
+148,,,,,Sudan,1700,SD,Country
+149,,,,,Sweden,1701,SE,Country
+150,,,,,Singapore,1703,SG,Country
+151,,,,,Slovenia,1705,SI,Country
+152,,,,,Slovakia,1707,SK,Country
+153,,,,,Sierra Leone,1708,SL,Country
+154,,,,,Senegal,1710,SN,Country
+155,,,,,Somalia,1711,SO,Country
+156,,,,,Suriname,1714,SR,Country
+157,,,,,South Sudan,1715,SS,Country
+158,,,,,El Salvador,1718,SV,Country
+159,,,,,St Maarten,1720,SX,Country
+160,,,,,Syria,1721,SY,Country
+161,,,,,Turks and Caicos Islands,1747,TC,Country
+162,,,,,Chad,1748,TD,Country
+163,,,,,Togo,1751,TG,Country
+164,,,,,Thailand,1752,TH,Country
+165,,,,,Turkmenistan,1757,TM,Country
+166,,,,,Tunisia,1758,TN,Country
+167,,,,,Turkey,1762,TR,Country
+168,,,,,Trinidad and Tobago,1764,TT,Country
+169,,,,,Taiwan,1767,TW,Country
+170,,,,,Tanzania,1770,TZ,Country
+171,,,,,Ukraine,1793,UA,Country
+172,,,,,Uganda,1799,UG,Country
+173,,,,,United Kingdom,1803,UK,Country
+174,,,,,United States,1811,US,Country
+175,,,,,Uruguay,1817,UY,Country
+176,,,,,Venezuela,1845,VE,Country
+177,,,,,US Virgin Islands,1849,VI,Country
+178,,,,,Vietnam,1854,VN,Country
+179,,,,,Mayotte,2004,YT,Country
+180,,,,,South Africa,2033,ZA,Country
+181,,,,,Zambia,2045,ZM,Country
+182,,,,,Zimbabwe,2055,ZW,Country
+183,IBOM,Mumbai,India,BOM,Mumbai,42989,BOM,Station
+184,PARI,Paris,France,CDG,Paris Charles de Gaulle,44759,CDG,Station
+185,HAVA,Havana,Cuba,HAV,Havana,56150,HAV,Station
+186,HELS,Helsinki,Finland,HEL,Helsinki Vantaa,56332,HEL,Station
+187,KWIA,Kuwait,Kuwait,KWI,Kuwait,64105,KWI,Station
+188,LJUB,Ljubljana,Slovenia,LJU,Ljubljana,65797,LJU,Station
+189,MGAA,Managua,Nicaragua,MGA,Managua,67937,MGA,Station
+190,NDJA,N'Djamena,Chad,NDJ,N'Djamena,70106,NDJ,Station
+191,TUNI,Tunis Carthage,Tunisia,TUN,Tunis Carthage,84750,TUN,Station
+1,LOND,London,United Kingdom,LGW,London Gatwick,65655,LGW,Station
+2,LOND,London,United Kingdom,LHR,London Heathrow,65698,LHR,Station
+3,PARI,Paris,France,ORY,Paris Orly,73097,ORY,Station
+1,NYCA,New York,United States,EWR,New York Newark,50290,EWR,Station
+2,NYCA,New York,United States,JFK,New York John F. Kennedy,60987,JFK,Station
+1,FRAN,Frankfurt,Germany,FRA,Frankfurt am Main,52337,FRA,Station
+1,ISTA,Istanbul,Turkey,IST,Istanbul Ataturk,59316,IST,Station
+0,AMST,Amsterdam,Netherlands,AMS,Amsterdam,40595,AMS,Station
+1,ROME,Rome,Italy,FCO,Rome Fiumicino,51631,FCO,Station
+2,YTOA,Toronto,Canada,YYZ,Toronto Pearson International,96474,YYZ,Station
+1,MILA,Milan,Italy,MXP,Milan Malpensa,68768,MXP,Station
+1,DXBA,Dubai,United Arab Emirates,DXB,Dubai,48018,DXB,Station
+1,WASA,Washington,United States,IAD,Washington Dulles,58436,IAD,Station
+0,WASA,Washington,United States,BWI,Baltimore Washington International,43369,BWI,Station
+2,WASA,Washington,United States,DCA,Washington Ronald Reagan,47009,DCA,Station
+1,MADR,Madrid,Spain,MAD,Madrid,67652,MAD,Station
+1,LAXA,Los Angeles,United States,LAX,Los Angeles International,65368,LAX,Station
+2,VIEN,Vienna,Austria,VIE,Vienna,88773,VIE,Station
+1,MUNI,Munich,Germany,MUC,Munich,68611,MUC,Station
+1,ZURI,Zurich,Switzerland,ZRH,Zurich,98424,ZRH,Station
+1,MOSC,Moscow,Russia,DME,Moscow Domodedovo,47493,DME,Station
+3,MOSC,Moscow,Russia,SVO,Moscow Sheremetyevo,82495,SVO,Station
+4,MOSC,Moscow,Russia,VKO,Moscow Vnukovo,88879,VKO,Station
+0,BRUS,Brussels,Belgium,BRU,Brussels International,43141,BRU,Station
+1,COPE,Copenhagen,Denmark,CPH,Copenhagen,45336,CPH,Station
+0,BARC,Barcelona,Spain,BCN,Barcelona,42414,BCN,Station
+1,CHIA,Chicago,United States,ORD,Chicago O'Hare International,73076,ORD,Station
+1,HOUA,Houston,United States,IAH,Houston George Bush Intercntl.,58440,IAH,Station
+1,MANC,Manchester,United Kingdom,MAN,Manchester,67662,MAN,Station
+1,MIAA,Miami,United States,MIA,Miami International,68033,MIA,Station
+2,SFOA,San Francisco,United States,SFO,San Francisco International,81727,SFO,Station
+0,BOSA,Boston,United States,BOS,Boston Logan International,42995,BOS,Station
+2,BERL,Berlin,Germany,SXF,Berlin Schoenefeld,82582,SXF,Station
+3,BERL,Berlin,Germany,TXL,Berlin Tegel,84892,TXL,Station
+1,GENE,Geneva,Switzerland,GVA,Geneva,54833,GVA,Station
+1,DUSS,Dusseldorf,Germany,DUS,Dusseldorf International,47891,DUS,Station
+0,STOC,Stockholm,Sweden,ARN,Stockholm Arlanda,40830,ARN,Station
+2,YMQA,Montreal,Canada,YUL,Montreal Pierre Elliott Trudeau,96268,YUL,Station
+0,BKKT,Bangkok,Thailand,BKK,Bangkok Suvarnabhumi,42795,BKK,Station
+0,ATHE,Athens,Greece,ATH,Athens International,40920,ATH,Station
+0,PARI,Paris,France,BVA,Paris Beauvais,43313,BVA,Station
+3,WARS,Warsaw,Poland,WAW,Warsaw Chopin,90711,WAW,Station
+1,DUBL,Dublin,Ireland,DUB,Dublin,47874,DUB,Station
+0,BIRM,Birmingham,United Kingdom,BHX,Birmingham,42664,BHX,Station
+1,MIAA,Miami,United States,FLL,Fort Lauderdale International,52060,FLL,Station
+2,OSLO,Oslo,Norway,OSL,Oslo Gardermoen,73132,OSL,Station
+1,HKGA,Hong Kong,Hong Kong,HKG,Hong Kong International,56615,HKG,Station
+1,LISB,Lisbon,Portugal,LIS,Lisbon,65747,LIS,Station
+2,SEAA,Seattle,United States,SEA,Seattle / Tacoma International,81665,SEA,Station
+0,BUDA,Budapest,Hungary,BUD,Budapest,43268,BUD,Station
+2,VENI,Venice,Italy,VCE,Venice Marco Polo,88485,VCE,Station
+2,BJSA,Beijing,China,PEK,Beijing Capital,74763,PEK,Station
+0,CAIR,Cairo,Egypt,CAI,Cairo,44617,CAI,Station
+2,YVRA,Vancouver,Canada,YVR,Vancouver International,96322,YVR,Station
+0,ATLA,Atlanta,United States,ATL,Atlanta Hartsfield-Jackson,40924,ATL,Station
+1,LOND,London,United Kingdom,LCY,London City,65465,LCY,Station
+1,ISTA,Istanbul,Turkey,SAW,Istanbul Sabiha,81495,SAW,Station
+1,HAMB,Hamburg,Germany,HAM,Hamburg International,56141,HAM,Station
+1,DFWA,Dallas,United States,DFW,Dallas Fort Worth International,47175,DFW,Station
+2,TELA,Tel Aviv,Israel,TLV,Ben Gurion Intl,84326,TLV,Station
+1,TYOA,Tokyo,Japan,HND,Tokyo Haneda,56756,HND,Station
+2,TYOA,Tokyo,Japan,NRT,Tokyo Narita,70788,NRT,Station
+2,CSHA,Shanghai,China,PVG,Shanghai Pu Dong,75575,PVG,Station
+1,SAOA,Sao Paulo,Brazil,GRU,Sao Paulo Guarulhos,54661,GRU,Station
+2,PRAG,Prague,Czech Republic,PRG,Prague,75383,PRG,Station
+1,ORLB,Orlando,United States,MCO,Orlando International,67759,MCO,Station
+2,SINS,Singapore,Singapore,SIN,Singapore Changi,81870,SIN,Station
+1,SELA,Seoul,South Korea,ICN,Seoul Incheon Int'l,58542,ICN,Station
+1,SELA,Seoul,South Korea,GMP,Seoul Gimpo,54416,GMP,Station
+1,IDEL,New Delhi,India,DEL,New Delhi,47116,DEL,Station
+1,MSPA,Minneapolis,United States,MSP,Minneapolis St Paul,68528,MSP,Station
+1,DTTA,Detroit,United States,DTW,Detroit Wayne County,47847,DTW,Station
+1,MILA,Milan,Italy,LIN,Milan Linate,65742,LIN,Station
+1,KIEV,Kyiv,Ukraine,KBP,Kyiv Boryspil,63104,KBP,Station
+0,BOLO,Bologna,Italy,BLQ,Bologna International,42849,BLQ,Station
+0,DOHA,Doha,Qatar,DOH,Hamad International,47592,DOH,Station
+1,EDIN,Edinburgh,United Kingdom,EDI,Edinburgh,49369,EDI,Station
+1,NYCA,New York,United States,LGA,New York La Guardia,65633,LGA,Station
+1,DENA,Denver,United States,DEN,Denver International,47118,DEN,Station
+1,KULM,Kuala Lumpur,Malaysia,KUL,Kuala Lumpur International,64012,KUL,Station
+1,PHLA,Philadelphia,United States,PHL,Philadelphia International,74908,PHL,Station
+1,CLTA,Charlotte,United States,CLT,Charlotte Douglas,45156,CLT,Station
+1,JNBA,Johannesburg,South Africa,JNB,Johannesburg O.R. Tambo,61362,JNB,Station
+1,OAKA,Oakland,United States,OAK,Oakland Metropolitan Oak,72267,OAK,Station
+1,LYON,Lyon,France,LYS,Lyon,66515,LYS,Station
+1,PDXA,Portland,United States,PDX,Portland,74728,PDX,Station
+2,STUT,Stuttgart,Germany,STR,Stuttgart,82402,STR,Station
+1,PETE,St Petersburg,Russia,LED,St Petersburg Pulkovo,65540,LED,Station
+1,MEXA,Mexico City,Mexico,MEX,Mexico City Juarez International,67864,MEX,Station
+1,SYDA,Sydney,Australia,SYD,Sydney Kingsford Smith,82628,SYD,Station
+0,BASE,Basel,Switzerland,BSL,Basel Mulhouse Freiburg,43180,BSL,Station
+2,BUCH,Bucharest,Romania,OTP,Bucharest Otopeni,73184,OTP,Station
+1,NICE,Nice,France,NCE,Nice,70053,NCE,Station
+0,BEIR,Beirut,Lebanon,BEY,Beirut,42521,BEY,Station
+0,AUHA,Abu Dhabi,United Arab Emirates,AUH,Abu Dhabi International,40968,AUH,Station
+1,YOWA,Ottawa,Canada,YOW,Ottawa International,95991,YOW,Station
+1,GOTH,Gothenburg,Sweden,GOT,Gothenburg Landvetter,54516,GOT,Station
+2,PHXA,Phoenix,United States,PHX,Phoenix Sky Harbor,74920,PHX,Station
+1,DFWA,Dallas,United States,DAL,Dallas Love Field,46924,DAL,Station
+1,MNLP,Manila,Philippines,MNL,Manila Ninoy Aquino,68284,MNL,Station
+1,RIOA,Rio De Janeiro,Brazil,GIG,Rio De Janeiro Internacional,54215,GIG,Station
+1,NBOA,Nairobi,Kenya,NBO,Nairobi Jomo Kenyatta,70015,NBO,Station
+2,TOUS,Toulouse,France,TLS,Toulouse,84323,TLS,Station
+1,LASA,Las Vegas,United States,LAS,Las Vegas Mccarran,65363,LAS,Station
+2,TPAA,Tampa,United States,TPA,Tampa International,84497,TPA,Station
+1,GLAS,Glasgow,United Kingdom,GLA,Glasgow International,54353,GLA,Station
+1,NEWC,Newcastle,United Kingdom,NCL,Newcastle,70060,NCL,Station
+3,RIOA,Rio De Janeiro,Brazil,SDU,Rio De Janeiro Santos Dumont,81637,SDU,Station
+1,SLCA,Salt Lake City,United States,SLC,Salt Lake City,82003,SLC,Station
+2,YEAA,Edmonton,Canada,YEG,Edmonton International,95495,YEG,Station
+2,RIGA,Riga,Latvia,RIX,Riga International,79576,RIX,Station
+2,SANA,San Diego,United States,SAN,San Diego International,81486,SAN,Station
+3,SOFI,Sofia,Bulgaria,SOF,Sofia,82150,SOF,Station
+2,RDUA,Durham,United States,RDU,Raleigh / Durham,79333,RDU,Station
+0,AUSA,Austin,United States,AUS,Austin-Bergstrom,40979,AUS,Station
+2,RUHA,Riyadh,Saudi Arabia,RUH,Riyadh,80136,RUH,Station
+0,MALA,Malaga,Spain,AGP,Malaga,40304,AGP,Station
+1,HOUA,Houston,United States,HOU,Houston Hobby,56821,HOU,Station
+0,BELI,Belgrade,Serbia,BEG,Belgrade Nikola Tesla,42503,BEG,Station
+1,COLO,Cologne,Germany,CGN,Cologne,44910,CGN,Station
+1,MARS,Marseille,France,MRS,Marseille,68483,MRS,Station
+1,CASA,Casablanca,Morocco,CMN,Casablanca Mohamed V.,45198,CMN,Station
+1,HANN,Hannover,Germany,HAJ,Hannover,56138,HAJ,Station
+1,ZAGR,Zagreb,Croatia,ZAG,Zagreb,97607,ZAG,Station
+0,AMMA,Amman,Jordan,AMM,Amman Queen Alia,40589,AMM,Station
+0,BURA,Burbank,United States,BUR,Burbank,43282,BUR,Station
+2,SNAA,Santa Ana,United States,SNA,Santa Ana John Wayne,82097,SNA,Station
+0,BUEA,Buenos Aires,Argentina,AEP,Buenos Aires Jorge Newbery,40208,AEP,Station
+2,BUEA,Buenos Aires,Argentina,EZE,Buenos Aires Ministro Pistarini,50421,EZE,Station
+0,CCAN,Guangzhou,China,CAN,Guangzhou,44622,CAN,Station
+1,NAPL,Naples,Italy,NAP,Naples International,69968,NAP,Station
+2,FLOR,Florence,Italy,FLR,Florence,52066,FLR,Station
+1,LARN,Larnaca,Cyprus,LCA,Larnaca,65441,LCA,Station
+2,PBIA,West Palm Beach,United States,PBI,West Palm Beach International,74617,PBI,Station
+1,CMHA,Columbus,United States,CMH,Port Columbus,45192,CMH,Station
+1,MKCA,Kansas City,United States,MCI,Kansas City International,67753,MCI,Station
+1,JEDA,Jeddah,Saudi Arabia,JED,Jeddah,60932,JED,Station
+1,LGBA,Long Beach,United States,LGB,Long Beach Municipal,65634,LGB,Station
+1,LUXE,Luxembourg,Luxembourg,LUX,Luxembourg,66328,LUX,Station
+1,CPTA,Cape Town,South Africa,CPT,Cape Town,45348,CPT,Station
+1,MELA,Melbourne,Australia,MEL,Melbourne Tullamarine,67852,MEL,Station
+2,SCLA,Santiago,Chile,SCL,Santiago Arturo Merino Benitez,81580,SCL,Station
+2,TURI,Turin,Italy,TRN,Turin,84606,TRN,Station
+0,BORD,Bordeaux,France,BOD,Bordeaux,42980,BOD,Station
+1,YTOA,Toronto,Canada,YTZ,Toronto Island,96234,YTZ,Station
+0,AKLN,Auckland,New Zealand,AKL,Auckland International,40492,AKL,Station
+0,BILB,Bilbao,Spain,BIO,Bilbao,42703,BIO,Station
+0,BOGA,Bogota,Colombia,BOG,Bogota,42983,BOG,Station
+1,INDA,Indianapolis,United States,IND,Indianapolis,59060,IND,Station
+1,JAXA,Jacksonville,United States,JAX,Jacksonville International,60760,JAX,Station
+1,LOSA,Lagos,Nigeria,LOS,Lagos,66035,LOS,Station
+1,MSYA,New Orleans,United States,MSY,New Orleans Louis Armstrong,68537,MSY,Station
+0,BNEA,Brisbane,Australia,BNE,Brisbane,42933,BNE,Station
+1,CVGA,Cincinnati,United States,CVG,Cincinnati Northern Kentucky,45623,CVG,Station
+2,SACA,Sacramento,United States,SMF,Sacramento International,82054,SMF,Station
+0,ABER,Aberdeen,United Kingdom,ABZ,Aberdeen,40074,ABZ,Station
+0,ADDA,Addis Ababa,Ethiopia,ADD,Addis Ababa,40148,ADD,Station
+1,CLEA,Cleveland,United States,CLE,Cleveland Hopkins International,45141,CLE,Station
+1,NURE,Nuremberg,Germany,NUE,Nuremberg,70917,NUE,Station
+2,PITA,Pittsburgh,United States,PIT,Pittsburgh Int'l Apt.,74964,PIT,Station
+1,PTYA,Panama City,Panama,PTY,Panama City Tocumen International,75497,PTY,Station
+2,TALL,Tallinn,Estonia,TLL,Tallinn,84316,TLL,Station
+1,KRAK,Krakow,Poland,KRK,Krakow,63867,KRK,Station
+1,OSLO,Oslo,Norway,TRF,Oslo Torp,84598,TRF,Station
+2,VALE,Valencia,Spain,VLC,Valencia,88915,VLC,Station
+3,VILN,Vilnius,Lithuania,VNO,Vilnius,89023,VNO,Station
+1,HNLA,Honolulu,United States,HNL,Honolulu International,56764,HNL,Station
+1,TPET,Taipei,Taiwan,TPE,Taipei Taiwan Taoyuan,84501,TPE,Station
+0,BILL,Billund,Denmark,BLL,Billund,42844,BLL,Station
+2,YHZA,Halifax,Canada,YHZ,Halifax International,95658,YHZ,Station
+0,ACCA,Accra,Ghana,ACC,Accra,40099,ACC,Station
+0,BNAA,Nashville,United States,BNA,Nashville,42929,BNA,Station
+0,BRIS,Bristol,United Kingdom,BRS,Bristol,43139,BRS,Station
+0,ALGA,Algiers,Algeria,ALG,Algiers,40535,ALG,Station
+1,LUQA,Luqa,Malta,MLA,Luqa Malta International,68177,MLA,Station
+1,ONTA,Ontario,United States,ONT,Ontario International,72900,ONT,Station
+1,PERA,Perth,Australia,PER,Perth,74770,PER,Station
+2,PALM,Palma,Spain,PMI,Palma - Majorca,75145,PMI,Station
+1,CSHA,Shanghai,China,SHA,Shanghai Hongqiao,81809,SHA,Station
+0,ALIC,Alicante,Spain,ALC,Alicante,40531,ALC,Station
+1,CGKI,Jakarta,Indonesia,CGK,Soekarno-Hatta,44907,CGK,Station
+1,LIMA,Lima,Peru,LIM,Lima,65741,LIM,Station
+0,BUFA,Buffalo,United States,BUF,Buffalo Niagara,43270,BUF,Station
+1,MSQA,Minsk,Belarus,MSQ,Minsk International 2,68529,MSQ,Station
+1,PORT,Porto,Portugal,OPO,Porto,72991,OPO,Station
+2,SJUA,San Juan,Puerto Rico,SJU,San Juan Luis Munoz Marin,81925,SJU,Station
+2,WINB,Winnipeg,Canada,YWG,Winnipeg,96359,YWG,Station
+2,CPQA,Campinas,Brazil,VCP,Sao Paulo Viracopos,88496,VCP,Station
+1,NANT,Nantes,France,NTE,Nantes,70869,NTE,Station
+0,HFDA,Hartford,United States,BDL,Hartford Bradley International,42460,BDL,Station
+0,BAHA,Bahrain,Bahrain,BAH,Bahrain,42312,BAH,Station
+0,BREM,Bremen,Germany,BRE,Bremen,43125,BRE,Station
+2,SATA,San Antonio,United States,SAT,San Antonio International,81492,SAT,Station
+1,MCTA,Muscat,Oman,MCT,Muscat,67764,MCT,Station
+0,ABQA,Albuquerque,United States,ABQ,Albuquerque,40065,ABQ,Station
+0,MILA,Milan,Italy,BGY,Milan Bergamo,42617,BGY,Station
+1,CUNA,Cancun,Mexico,CUN,Cancun,45582,CUN,Station
+1,THRA,Tehran,Iran,IKA,Tehran Imam Khomeini,58913,IKA,Station
+1,OKCA,Oklahoma City,United States,OKC,Oklahoma City Will Rogers World,72739,OKC,Station
+2,RICA,Richmond,United States,RIC,Richmond,79555,RIC,Station
+1,SGNV,Ho Chi Minh City,Vietnam,SGN,Ho Chi Minh City,81774,SGN,Station
+1,OMAA,Omaha,United States,OMA,Omaha Eppley Airfield,72833,OMA,Station
+1,YHMA,Hamilton,Canada,YHM,Hamilton,95645,YHM,Station
+0,IBLR,Bengaluru,India,BLR,Bengaluru,42850,BLR,Station
+1,DMMA,Dammam,Saudi Arabia,DMM,Dammam,47501,DMM,Station
+2,LOND,London,United Kingdom,LTN,London Luton,66270,LTN,Station
+1,OSAA,Osaka,Japan,KIX,Osaka Kansai International,63448,KIX,Station
+2,ROCA,Rochester,United States,ROC,Rochester,79843,ROC,Station
+1,YQBA,Quebec,Canada,YQB,Quebec,96066,YQB,Station
+2,LOND,London,United Kingdom,STN,London Stansted,82398,STN,Station
+0,ANCA,Anchorage,United States,ANC,Anchorage International,40627,ANC,Station
+1,CHSA,Charleston,United States,CHS,Charleston,44963,CHS,Station
+1,CMBA,Colombo,Sri Lanka,CMB,Colombo Bandaranayake,45186,CMB,Station
+1,MONT,Montpellier,France,MPL,Montpellier,68380,MPL,Station
+2,SOUT,Southampton,United Kingdom,SOU,Southampton,82165,SOU,Station
+1,DRES,Dresden,Germany,DRS,Dresden,47747,DRS,Station
+2,SJOA,San Jose,Costa Rica,SJO,San Jose Juan Santamaria,81919,SJO,Station
+1,LEED,Leeds,United Kingdom,LBA,Leeds Bradford,65393,LBA,Station
+0,BELF,Belfast,United Kingdom,BHD,Belfast City,42644,BHD,Station
+2,PISA,Pisa,Italy,PSA,Pisa,75425,PSA,Station
+2,THES,Thessaloniki,Greece,SKG,Thessaloniki,81959,SKG,Station
+2,SALZ,Salzburg,Austria,SZG,Salzburg,82679,SZG,Station
+2,TENE,Tenerife,Spain,TFN,Tenerife North,84030,TFN,Station
+3,TENE,Tenerife,Spain,TFS,Tenerife South,84035,TFS,Station
+1,DPSI,Bali (Denpasar),Indonesia,DPS,Bali (Denpasar),47651,DPS,Station
+1,MEMA,Memphis,United States,MEM,Memphis International,67853,MEM,Station
+1,ROTT,Rotterdam,Netherlands,RTM,Rotterdam,80093,RTM,Station
+1,EBBA,Entebbe,Uganda,EBB,Entebbe,49266,EBB,Station
+1,IMAA,Chennai,India,MAA,Chennai,67649,MAA,Station
+2,TBLI,Tbilisi,Georgia,TBS,Tbilisi,83843,TBS,Station
+2,SDFA,Louisville,United States,SDF,Louisville Standiford Field,81622,SDF,Station
+0,BERI,Bergen,Norway,BGO,Bergen,42607,BGO,Station
+1,GENO,Genoa,Italy,GOA,Genoa,54497,GOA,Station
+1,MKEA,Milwaukee,United States,MKE,Milwaukee General Mitchell,68133,MKE,Station
+2,TUSA,Tucson,United States,TUS,Tucson International,84755,TUS,Station
+1,CATA,Catania,Italy,CTA,Catania Fontanarossa,45521,CTA,Station
+1,DARA,Dar Es Salaam,Tanzania,DAR,Dar Es Salaam,46930,DAR,Station
+2,STAV,Stavanger,Norway,SVG,Stavanger,82487,SVG,Station
+1,CARD,Cardiff,United Kingdom,CWL,Cardiff,45676,CWL,Station
+1,DACA,Dhaka,Bangladesh,DAC,Dhaka,46915,DAC,Station
+0,GRAN,Gran Canaria,Spain,LPA,Gran Canaria Las Palmas,66065,LPA,Station
+1,BAKA,Baku,Azerbaijan,GYD,Baku Heydar Aliyev International,54980,GYD,Station
+1,CHIA,Chicago,United States,MDW,Chicago Midway,67815,MDW,Station
+2,SDQA,Santo Domingo,Dominican Republic,SDQ,Santo Domingo Las Americas,81633,SDQ,Station
+3,SKOP,Skopje,Republic of Macedonia,SKP,Skopje,81968,SKP,Station
+1,KIEV,Kyiv,Ukraine,IEV,Kyiv Zhuliany,58646,IEV,Station
+1,MHTA,Manchester,United States,MHT,Manchester,68004,MHT,Station
+1,DKRA,Dakar,Senegal,DKR,Dakar,47410,DKR,Station
+2,GADA,Gdansk,Poland,GDN,Gdansk,53982,GDN,Station
+1,HANV,Hanoi,Vietnam,HAN,Hanoi,56142,HAN,Station
+2,KATO,Katowice,Poland,KTW,Katowice,63975,KTW,Station
+1,ISBA,Islamabad,Pakistan,ISB,Islamabad,59298,ISB,Station
+1,KHIA,Karachi,Pakistan,KHI,Karachi,63385,KHI,Station
+1,KTMA,Kathmandu,Nepal,KTM,Kathmandu,63965,KTM,Station
+1,LEIP,Leipzig,Germany,LEJ,Leipzig,65546,LEJ,Station
+1,LITA,Little Rock,United States,LIT,Little Rock,65748,LIT,Station
+2,RNOA,Reno,United States,RNO,Reno / Tahoe,79807,RNO,Station
+2,VERO,Verona,Italy,VRN,Verona International,89214,VRN,Station
+1,YXEA,Saskatoon,Canada,YXE,Saskatoon,96405,YXE,Station
+0,BOIA,Boise,United States,BOI,Boise,42985,BOI,Station
+0,ANKA,Ankara,Turkey,ESB,Ankara Esenboga,50082,ESB,Station
+2,FMYA,Fort Myers,United States,RSW,Fort Myers Southwest Florida Reg,80055,RSW,Station
+0,ALAA,Almaty,Kazakhstan,ALA,Almaty,40529,ALA,Station
+1,CCTU,Chengdu,China,CTU,Chengdu,45541,CTU,Station
+1,DAYA,Dayton,United States,DAY,Dayton International,46937,DAY,Station
+0,BARI,Bari,Italy,BRI,Bari,43129,BRI,Station
+0,CCSA,Caracas,Venezuela,CCS,Caracas,44723,CCS,Station
+1,IHYD,Hyderabad,India,HYD,Hyderabad,57284,HYD,Station
+2,SEVI,Seville,Spain,SVQ,Seville,82497,SVQ,Station
+2,YQGA,Windsor,Canada,YQG,Windsor,96071,YQG,Station
+0,BHMA,Birmingham,United States,BHM,Birmingham,42653,BHM,Station
+1,REYK,Reykjavik,Iceland,KEF,Reykjavik Keflavik,63238,KEF,Station
+0,ABVA,Abuja,Nigeria,ABV,Abuja,40070,ABV,Station
+1,ILEA,Killeen,United States,GRK,Killeen Gray AAF,54651,GRK,Station
+1,ICOK,Kochi,India,COK,Kochi,45291,COK,Station
+1,EVNA,Yerevan,Armenia,EVN,Yerevan,50238,EVN,Station
+1,KRTA,Khartoum,Sudan,KRT,Khartoum,63876,KRT,Station
+1,WROC,Wroclaw,Poland,WRO,Wroclaw,91519,WRO,Station
+1,CORK,Cork,Ireland,ORK,Cork,73083,ORK,Station
+1,SHJA,Sharjah,United Arab Emirates,SHJ,Sharjah,81818,SHJ,Station
+2,UIOA,Quito,Ecuador,UIO,Quito,86479,UIO,Station
+2,YYJA,Victoria,Canada,YYJ,Victoria International,96458,YYJ,Station
+0,STOC,Stockholm,Sweden,BMA,Stockholm Bromma,42881,BMA,Station
+1,TIJA,Tijuana,Mexico,TIJ,Tijuana,84170,TIJ,Station
+0,AALB,Aalborg,Denmark,AAL,Aalborg,40012,AAL,Station
+0,ABJA,Abidjan,Ivory Coast,ABJ,Abidjan,40058,ABJ,Station
+1,NOTT,Nottingham,United Kingdom,EMA,East Midlands,49793,EMA,Station
+1,FRIE,Friedrichshafen,Germany,FDH,Friedrichshafen,51672,FDH,Station
+1,JNGO,Nagoya,Japan,NGO,Nagoya Chubu Centrair,70255,NGO,Station
+2,MARR,Marrakech Menara,Morocco,RAK,Marrakech Menara,79179,RAK,Station
+0,BSBA,Brasilia,Brazil,BSB,Brasilia,43170,BSB,Station
+0,EBLA,Erbil,Iraq,EBL,Erbil,49276,EBL,Station
+1,GSPA,Greenville,United States,GSP,Greenville-Spartanburg,54704,GSP,Station
+1,HKTT,Phuket,Thailand,HKT,Phuket,56628,HKT,Station
+1,LHEA,Lahore,Pakistan,LHE,Lahore,65685,LHE,Station
+1,MLEA,Male,Maldives,MLE,Ibrahim Nasir International,68181,MLE,Station
+2,POSA,Port Of Spain,Trinidad and Tobago,POS,Port Of Spain,75251,POS,Station
+2,TIRA,Tirana,Albania,TIA,Tirana,84161,TIA,Station
+1,MRUA,Mauritius,Mauritius,MRU,Mauritius,68485,MRU,Station
+2,POZN,Poznan,Poland,POZ,Poznan,75258,POZ,Station
+2,SARA,Sarajevo,Bosnia and Herzegovina,SJJ,Sarajevo International,81914,SJJ,Station
+2,TRON,Trondheim,Norway,TRD,Trondheim,84596,TRD,Station
+1,GSOA,Greensboro / High Point,United States,GSO,Greensboro / High Point,54703,GSO,Station
+1,ICTA,Wichita,United States,ICT,Wichita Mid-Continent,58548,ICT,Station
+1,PVCA,Provincetown,United States,PVC,Provincetown,75571,PVC,Station
+1,EKAT,Ekaterinburg,Russia,SVX,Ekaterinburg,82504,SVX,Station
+2,TRIE,Trieste,Italy,TRS,Trieste,84611,TRS,Station
+1,DABA,Daytona Beach,United States,DAB,Daytona Beach,46914,DAB,Station
+1,GDLA,Guadalajara,Mexico,GDL,Guadalajara,53980,GDL,Station
+1,GRAZ,Graz,Austria,GRZ,Graz,54666,GRZ,Station
+2,SAVA,Savannah,United States,SAV,Savannah / Hilton Head,81494,SAV,Station
+1,YLWA,Kelowna,Canada,YLW,Kelowna,95847,YLW,Station
+1,GRRA,Grand Rapids,United States,GRR,Grand Rapids,54658,GRR,Station
+1,IBIZ,Ibiza,Spain,IBZ,Ibiza,58506,IBZ,Station
+1,MUNS,Munster,Germany,FMO,Munster Osnabruck,52111,FMO,Station
+2,FYVA,Fayetteville,United States,XNA,Fayetteville Northwest Arkansas Rgn,93617,XNA,Station
+1,ORHA,Worcester,United States,ORH,Worcester,73080,ORH,Station
+1,TSEA,Astana,Kazakhstan,TSE,Astana,84645,TSE,Station
+1,YQRA,Regina,Canada,YQR,Regina,96082,YQR,Station
+0,BTVA,Burlington,United States,BTV,Burlington,43238,BTV,Station
+1,FARO,Faro,Portugal,FAO,Faro,51535,FAO,Station
+1,ELPA,El Paso,United States,ELP,El Paso International,49760,ELP,Station
+1,GUAA,Guatemala City,Guatemala,GUA,Guatemala City,54785,GUA,Station
+1,ALEX,Alexandria,Egypt,HBE,Alexandria Borg El Arab,56181,HBE,Station
+1,ODES,Odesa,Ukraine,ODS,Odesa Central,72419,ODS,Station
+2,POAA,Porto Alegre,Brazil,POA,Porto Alegre,75233,POA,Station
+0,IZMI,Izmir,Turkey,ADB,Izmir,40146,ADB,Station
+1,KRAT,Krasnodar,Russia,KRR,Krasnodar,63874,KRR,Station
+2,SXMA,St Maarten,St Maarten,SXM,St Maarten,82589,SXM,Station
+1,HPNA,Westchester County,United States,HPN,Westchester County,56862,HPN,Station
+1,HREA,Harare,Zimbabwe,HRE,Harare,56949,HRE,Station
+1,MEDA,Madinah,Saudi Arabia,MED,Madinah,67844,MED,Station
+1,PUSA,Busan,South Korea,PUS,Busan,75539,PUS,Station
+1,PWMA,Portland,United States,PWM,Portland,75629,PWM,Station
+2,RECA,Recife,Brazil,REC,Recife,79363,REC,Station
+2,SHAN,Shannon,Ireland,SNN,Shannon,82110,SNN,Station
+2,SPLI,Split,Croatia,SPU,Split,82213,SPU,Station
+1,BHZA,Belo Horizonte,Brazil,CNF,Belo Horizonte Tancredo Neves Int'l.,45238,CNF,Station
+1,MDEA,Medellin,Colombia,MDE,Medellin Jose Marie Cordova,67797,MDE,Station
+1,MVDA,Montevideo,Uruguay,MVD,Montevideo,68660,MVD,Station
+2,OVBA,Novosibirsk,Russia,OVB,Novosibirsk,73266,OVB,Station
+2,PALE,Palermo,Italy,PMO,Palermo,75151,PMO,Station
+1,SSAA,Salvador,Brazil,SSA,Salvador,82337,SSA,Station
+2,CLUJ,Cluj-Napoca,Romania,CLJ,Cluj-Napoca,45146,CLJ,Station
+1,KGLA,Kigali,Rwanda,KGL,Kigali,63340,KGL,Station
+1,SRQA,Sarasota,United States,SRQ,Sarasota,82305,SRQ,Station
+1,ITRV,Thiruvananthapuram,India,TRV,Thiruvananthapuram,84614,TRV,Station
+0,ADLA,Adelaide,Australia,ADL,Adelaide,40156,ADL,Station
+1,INNS,Innsbruck,Austria,INN,Innsbruck,59070,INN,Station
+1,KRSA,Kristiansand,Norway,KRS,Kristiansand Kjevik,63875,KRS,Station
+1,NORW,Norwich,United Kingdom,NWI,Norwich,71017,NWI,Station
+1,YYTA,St John's,Canada,YYT,St John's,96468,YYT,Station
+0,CAEA,Columbia,United States,CAE,Columbia Metropolitan,44613,CAE,Station
+1,DUBR,Dubrovnik,Croatia,DBV,Dubrovnik,46982,DBV,Station
+2,LIVE,Liverpool,United Kingdom,LPL,Liverpool,66076,LPL,Station
+2,SALB,San Salvador,El Salvador,SAL,San Salvador,81484,SAL,Station
+1,CLOA,Cali,Colombia,CLO,Cali,45151,CLO,Station
+1,OSAA,Osaka,Japan,ITM,Osaka Itami,59357,ITM,Station
+1,LEXA,Lexington,United States,LEX,Lexington Blue Grass,65560,LEX,Station
+1,SAMA,Samara,Russia,KUF,Samara,64006,KUF,Station
+1,HARA,Harrisburg,United States,MDT,Harrisburg International,67812,MDT,Station
+0,IAMD,Ahmedabad,India,AMD,Ahmedabad,40580,AMD,Station
+1,FARA,Fargo,United States,FAR,Fargo,51538,FAR,Station
+1,TPET,Taipei,Taiwan,TSA,Taipei Sung Shan,84641,TSA,Station
+0,BGIA,Bridgetown,Barbados,BGI,Bridgetown,42601,BGI,Station
+1,EXET,Exeter,United Kingdom,EXT,Exeter,50340,EXT,Station
+1,LNKA,Lincoln,United States,LNK,Lincoln,65979,LNK,Station
+2,RABA,Rabat,Morocco,RBA,Rabat,79217,RBA,Station
+2,SANC,Santiago de Compostela,Spain,SCQ,Santiago de Compostela,81585,SCQ,Station
+1,JFUK,Fukuoka,Japan,FUK,Fukuoka,52491,FUK,Station
+1,LVOV,Lviv,Ukraine,LWO,Lviv,66415,LWO,Station
+1,NASA,Nassau,Bahamas,NAS,Nassau International,69971,NAS,Station
+1,PRIT,Pristina,Kosovo,PRN,Pristina,75390,PRN,Station
+2,STRA,Strasbourg,France,SXB,Strasbourg,82578,SXB,Station
+1,MONB,Moncton,Canada,YQM,Moncton,96077,YQM,Station
+0,ANTA,Antalya,Turkey,AYT,Antalya,41172,AYT,Station
+1,FATA,Fresno,United States,FAT,Fresno Yosemite,51540,FAT,Station
+1,INVE,Inverness,United Kingdom,INV,Inverness,59078,INV,Station
+2,KIVA,Chisinau,Moldova,KIV,Chisinau,63446,KIV,Station
+1,LACO,La Coruna,Spain,LCG,La Coruna,65447,LCG,Station
+1,MFRA,Medford,United States,MFR,Medford,67906,MFR,Station
+2,RENN,Rennes,France,RNS,Rennes,79811,RNS,Station
+0,AUAA,Oranjestad,Aruba,AUA,Oranjestad,40961,AUA,Station
+1,CWBA,Curitiba,Brazil,CWB,Curitiba,45666,CWB,Station
+1,ELQA,Gassim,Saudi Arabia,ELQ,Gassim,49761,ELQ,Station
+1,LFTA,Lafayette,United States,LFT,Lafayette,65604,LFT,Station
+1,MMEA,Durham,United Kingdom,MME,Durham Tees Valley,68229,MME,Station
+2,PUJA,Punta Cana,Dominican Republic,PUJ,Punta Cana,75530,PUJ,Station
+0,BGWA,Baghdad,Iraq,BGW,Baghdad International,42615,BGW,Station
+0,AKRB,Akron,United States,CAK,Akron / Canton Regional,44619,CAK,Station
+1,EUGA,Eugene,United States,EUG,Eugene,50183,EUG,Station
+1,JANA,Jackson,United States,JAN,Jackson-Evers International,60750,JAN,Station
+1,MTYA,Monterrey,Mexico,MTY,Monterrey Gen Mariano Escobedo,68585,MTY,Station
+1,NANF,Nadi,Fiji,NAN,Nadi,69966,NAN,Station
+2,VIGO,Vigo,Spain,VGO,Vigo,88687,VGO,Station
+0,ICCU,Kolkata,India,CCU,Kolkata,44725,CCU,Station
+1,CIDA,Cedar Rapids,United States,CID,Cedar Rapids,44996,CID,Station
+1,FRUA,Bishkek,Kyrgyzstan,FRU,Bishkek,52357,FRU,Station
+1,FSDA,Sioux Falls,United States,FSD,Sioux Falls,52388,FSD,Station
+0,CRET,Crete,Greece,HER,Crete Heraklion,56338,HER,Station
+1,HSVA,Huntsville,United States,HSV,Huntsville International,57014,HSV,Station
+1,KINA,Kingston,Jamaica,KIN,Kingston Norman Manley,63438,KIN,Station
+1,KAZA,Kazan,Russia,KZN,Kazan,64254,KZN,Station
+1,OGGA,Kahului,United States,OGG,Maui Kahului,72551,OGG,Station
+0,ANCO,Ancona,Italy,AOI,Ancona,40681,AOI,Station
+0,BIAR,Biarritz,France,BIQ,Biarritz,42705,BIQ,Station
+1,JERS,Jersey,United Kingdom,JER,Jersey,60946,JER,Station
+1,ROAA,Roanoke,United States,ROA,Roanoke,79841,ROA,Station
+2,TLHA,Tallahassee,United States,TLH,Tallahassee,84312,TLH,Station
+2,VPSA,Valparaiso,United States,VPS,Valparaiso Ft. Walton Beach,89123,VPS,Station
+1,CRKP,Angeles,Philippines,CRK,Luzon Clark International,45435,CRK,Station
+1,MOBA,Mobile,United States,MOB,Mobile Municipal Arpt,68322,MOB,Station
+2,AVIL,Asturias,Spain,OVD,Asturias,73268,OVD,Station
+1,PENM,Penang,Malaysia,PEN,Penang,74766,PEN,Station
+1,CSZX,Shenzhen,China,SZX,Shenzhen Bao'an International,82696,SZX,Station
+0,MELA,Melbourne,Australia,AVV,Melbourne Avalon,41030,AVV,Station
+1,DORT,Dortmund,Germany,DTM,Dortmund,47837,DTM,Station
+1,HUMB,Humberside,United Kingdom,HUY,Humberside,57113,HUY,Station
+1,SEZA,Mahe Island,Seychelles,SEZ,Mahe Island,81690,SEZ,Station
+0,BELF,Belfast,United Kingdom,BFS,Belfast International,42563,BFS,Station
+2,PAUU,Pau,France,PUF,Pau,75526,PUF,Station
+1,RGNM,Yangon,Myanmar,RGN,Yangon,79470,RGN,Station
+0,AALE,Aalesund Vigra,Norway,AES,Aalesund Vigra,40211,AES,Station
+0,CAGL,Cagliari,Italy,CAG,Cagliari,44615,CAG,Station
+1,CLER,Clermont-Ferrand,France,CFE,Clermont-Ferrand,44853,CFE,Station
+1,COSA,Colorado Springs,United States,COS,Colorado Springs Peterson Field,45299,COS,Station
+1,FIHA,Kinshasa,DR Congo,FIH,Kinshasa N'Djili,51912,FIH,Station
+1,GRAO,Granada,Spain,GRX,Granada,54664,GRX,Station
+1,KHHT,Kaohsiung,Taiwan,KHH,Kaohsiung,63384,KHH,Station
+2,SGFA,Springfield,United States,SGF,Springfield-Branson Rg,81766,SGF,Station
+1,WLGN,Wellington,New Zealand,WLG,Wellington,91223,WLG,Station
+0,ARRE,Lanzarote,Spain,ACE,Lanzarote,40101,ACE,Station
+0,BRES,Brest,France,BES,Brest,42515,BES,Station
+0,BRAS,Bratislava,Slovakia,BTS,Bratislava,43235,BTS,Station
+1,CEBP,Cebu,Philippines,CEB,Mactan-Cebu International,44802,CEB,Station
+1,EIND,Eindhoven,Netherlands,EIN,Eindhoven,49614,EIN,Station
+1,FORA,Fortaleza,Brazil,FOR,Fortaleza,52210,FOR,Station
+1,GYEA,Guayaquil,Ecuador,GYE,Guayaquil,54981,GYE,Station
+1,LADA,Luanda,Angola,LAD,Luanda,65348,LAD,Station
+1,LUNA,Lusaka,Zambia,LUN,Lusaka,66318,LUN,Station
+1,MFEA,Mcallen,United States,MFE,Mcallen,67893,MFE,Station
+1,MPMA,Maputo,Mozambique,MPM,Maputo,68381,MPM,Station
+1,WDHA,Windhoek,Namibia,WDH,Windhoek Hosea Kutako,90840,WDH,Station
+0,BELA,Belem,Brazil,BEL,Belem,42508,BEL,Station
+1,CHCN,Christchurch,New Zealand,CHC,Christchurch,44947,CHC,Station
+1,CURA,Curacao,Curacao,CUR,Curacao,45586,CUR,Station
+1,FWAA,Fort Wayne,United States,FWA,Fort Wayne,52577,FWA,Station
+1,CHGH,Hangzhou,China,HGH,Hangzhou,56424,HGH,Station
+1,LBBA,Lubbock,United States,LBB,Lubbock International,65394,LBB,Station
+1,MRYA,Carmel,United States,MRY,Carmel Monterey Peninsula,68489,MRY,Station
+0,ASUA,Asuncion,Paraguay,ASU,Asuncion,40885,ASU,Station
+1,DLAA,Douala,Cameroon,DLA,Douala,47441,DLA,Station
+1,FNTA,Flint,United States,FNT,Flint,52164,FNT,Station
+1,HURG,Hurghada,Egypt,HRG,Hurghada,56951,HRG,Station
+2,RUNA,Saint-Denis,Reunion,RUN,Saint-Denis,80142,RUN,Station
+2,JERE,Jerez,Spain,XRY,Jerez,93833,XRY,Station
+1,FLNA,Florianopolis,Brazil,FLN,Florianopolis,52062,FLN,Station
+1,FUNC,Madeira,Portugal,FNC,Madeira,52147,FNC,Station
+0,MALM,Malmo,Sweden,MMX,Malmo Sturup,68248,MMX,Station
+1,JOKA,Okinawa,Japan,OKA,Okinawa Naha,72737,OKA,Station
+1,PSPA,Palm Springs,United States,PSP,Palm Springs International,75440,PSP,Station
+0,BKOA,Bamako,Mali,BKO,Bamako,42799,BKO,Station
+1,ERCA,Ercan,Cyprus,ECN,Ercan,49326,ECN,Station
+1,MHDA,Mashhad,Iran,MHD,Mashhad,67988,MHD,Station
+2,SRZA,Santa Cruz,Bolivia,VVI,Santa Cruz Viru Viru,89401,VVI,Station
+1,YFCA,Fredericton,Canada,YFC,Fredericton,95539,YFC,Station
+0,BILA,Billings,United States,BIL,Billings,42700,BIL,Station
+0,BZNA,Bozeman,United States,BZN,Bozeman,43518,BZN,Station
+1,ZNZA,Zanzibar,Tanzania,ZNZ,Zanzibar,98250,ZNZ,Station
+0,BLIA,Bellingham,United States,BLI,Bellingham,42841,BLI,Station
+1,CNXT,Chiang Mai,Thailand,CNX,Chiang Mai,45256,CNX,Station
+1,SANS,San Sebastian,Spain,EAS,San Sebastian,49235,EAS,Station
+1,PERP,Perpignan,France,PGF,Perpignan,74854,PGF,Station
+1,PNHK,Phnom Penh,Cambodia,PNH,Phnom Penh,75192,PNH,Station
+1,TIMI,Timisoara,Romania,TSR,Timisoara,84658,TSR,Station
+0,AVLA,Asheville,United States,AVL,Asheville,41020,AVL,Station
+1,GUMA,Barrigada / Tamuning,Guam,GUM,Guam A.B. Won Pat,54797,GUM,Station
+1,JIBA,Djibouti,Djibouti,JIB,Djibouti,61122,JIB,Station
+1,KLAG,Klagenfurt,Austria,KLU,Klagenfurt,63589,KLU,Station
+1,KOAA,Kona,United States,KOA,Kona,63713,KOA,Station
+1,LANA,Lansing,United States,LAN,Lansing,65358,LAN,Station
+0,MULH,Mulhouse,France,MLH,Mulhouse,68184,MLH,Station
+1,SBAA,Santa Barbara,United States,SBA,Santa Barbara Municipal,81521,SBA,Station
+2,MARA,Lamezia Terme,Italy,SUF,Lamezia Terme,82438,SUF,Station
+0,CBRA,Canberra,Australia,CBR,Canberra,44674,CBR,Station
+1,CNSA,Cairns,Australia,CNS,Cairns,45251,CNS,Station
+1,DNEP,Dnipro,Ukraine,DNK,Dnipro,47547,DNK,Station
+1,DONC,Doncaster,United Kingdom,DSA,Doncaster Sheffield,47777,DSA,Station
+1,FUER,Fuerteventura,Spain,FUE,Fuerteventura,52485,FUE,Station
+1,LUGA,Lugano,Switzerland,LUG,Lugano,66311,LUG,Station
+1,MAOA,Manaus,Brazil,MAO,Manaus,67663,MAO,Station
+1,MLIA,Moline,United States,MLI,Moline,68185,MLI,Station
+2,VLAD,Vladivostok,Russia,VVO,Vladivostok,89407,VVO,Station
+1,CXMN,Xiamen,China,XMN,Xiamen,93582,XMN,Station
+0,BKIM,Kota Kinabalu,Malaysia,BKI,Kota Kinabalu,42793,BKI,Station
+1,FAIA,Fairbanks,United States,FAI,Fairbanks International,51529,FAI,Station
+1,GRBA,Green Bay,United States,GRB,Green Bay,54642,GRB,Station
+1,ULNA,Ulaanbaatar,Mongolia,ULN,Ulaanbaatar,86622,ULN,Station
+0,BRIN,Brindisi,Italy,BDS,Brindisi,42467,BDS,Station
+1,CRET,Crete,Greece,CHQ,Crete Chania,44961,CHQ,Station
+1,CRPA,Corpus Christi,United States,CRP,Corpus Christi International,45440,CRP,Station
+1,BADE,Baden-Baden,Germany,FKB,Karlsruhe / Baden-Baden,52002,FKB,Station
+1,KBLA,Kabul,Afghanistan,KBL,Kabul,63100,KBL,Station
+1,NEWQ,Newquay,United Kingdom,NQY,Newquay,70745,NQY,Station
+1,OOLA,Gold Coast,Australia,OOL,Gold Coast,72940,OOL,Station
+0,BRUS,Brussels,Belgium,CRL,Brussels S. Charleroi,45436,CRL,Station
+1,IRKU,Irkutsk,Russia,IKT,Irkutsk,58932,IKT,Station
+1,JROA,Kilimanjaro,Tanzania,JRO,Kilimanjaro,61567,JRO,Station
+2,RHOD,Rhodes,Greece,RHO,Rhodes,79519,RHO,Station
+2,SANT,Santander,Spain,SDR,Santander,81634,SDR,Station
+1,SUBI,Surabaya,Indonesia,SUB,Surabaya,82434,SUB,Station
+1,CCKG,Chongqing,China,CKG,Chongqing,45095,CKG,Station
+1,THIR,Santorini (Thira),Greece,JTR,Santorini (Thira),61666,JTR,Station
+1,CKMG,Kunming,China,KMG,Kunming,63623,KMG,Station
+1,MYRA,Myrtle Beach,United States,MYR,Myrtle Beach AFB,68818,MYR,Station
+1,TOUL,Toulon,France,TLN,Toulon-Hyères,84318,TLN,Station
+2,TNRA,Antananarivo,Madagascar,TNR,Antananarivo,84418,TNR,Station
+1,YQTA,Thunder Bay,Canada,YQT,Thunder Bay,96084,YQT,Station
+1,FAYA,Fayetteville,United States,FAY,Fayetteville Municipal,51545,FAY,Station
+1,JNBA,Johannesburg,South Africa,HLA,Lanseria,56657,HLA,Station
+1,KHAR,Kharkiv,Ukraine,HRK,Kharkiv,56955,HRK,Station
+1,MBAA,Mombasa,Kenya,MBA,Mombasa,67697,MBA,Station
+0,MINE,Mineralnye Vody,Russia,MRV,Mineralnye Vody,68486,MRV,Station
+1,PADE,Paderborn,Germany,PAD,Paderborn,74564,PAD,Station
+2,PTPA,Pointe-a-Pitre,Guadeloupe,PTP,Pointe-a-Pitre,75488,PTP,Station
+2,TGUA,Tegucigalpa,Honduras,TGU,Tegucigalpa,84085,TGU,Station
+0,BSRA,Basra,Iraq,BSR,Basra,43186,BSR,Station
+1,CORA,Cordoba,Argentina,COR,Cordoba,45298,COR,Station
+1,CAST,Castletown,United Kingdom,IOM,Ronaldsway,59117,IOM,Station
+1,MBJA,Montego Bay,Jamaica,MBJ,Montego Bay,67706,MBJ,Station
+1,CNKG,Nanking / Nanjing,China,NKG,Nanking / Nanjing,70439,NKG,Station
+2,TANG,Tangier,Morocco,TNG,Tangier Boukhalef,84407,TNG,Station
+1,CHAA,Chattanooga,United States,CHA,Chattanooga,44945,CHA,Station
+1,JUBA,Juba,South Sudan,JUB,Juba,61698,JUB,Station
+1,MAFA,Midland,United States,MAF,Midland Odessa Regional,67654,MAF,Station
+1,MSOA,Missoula,United States,MSO,Missoula,68527,MSO,Station
+1,PERM,Perm,Russia,PEE,Perm,74757,PEE,Station
+1,VARN,Varna,Bulgaria,VAR,Varna,88402,VAR,Station
+1,CWUH,Wuhan,China,WUH,Wuhan,91656,WUH,Station
+1,YMMA,Fort Mcmurray,Canada,YMM,Fort Mcmurray,95885,YMM,Station
+0,BERN,Bern,Switzerland,BRN,Bern,43134,BRN,Station
+0,BZEA,Belize City,Belize,BZE,Belize City Philip S.W.Goldson Int,43509,BZE,Station
+2,PAPA,Port Au Prince,Haiti,PAP,Port Au Prince,74576,PAP,Station
+1,SAPA,San Pedro Sula,Honduras,SAP,San Pedro Sula,81488,SAP,Station
+1,XIAN,Xi An,China,XIY,Xi An Xianyang,93401,XIY,Station
+1,CTAO,Qingdao,China,TAO,Qingdao,83791,TAO,Station
+0,AGUA,Aguascalientes,Mexico,AGU,Aguascalientes,40309,AGU,Station
+1,EYWA,Key West,United States,EYW,Key West International,50391,EYW,Station
+1,GNVA,Gainesville,United States,GNV,Gainesville,54470,GNV,Station
+1,GPTA,Gulfport,United States,GPT,Gulfport,54564,GPT,Station
+2,IASI,Iasi,Romania,IAS,Iasi,58451,IAS,Station
+1,LBVA,Libreville,Gabon,LBV,Libreville,65414,LBV,Station
+1,LPBA,La Paz,Bolivia,LPB,La Paz,66066,LPB,Station
+1,YAOA,Yaounde,Cameroon,NSI,Yaounde Nsimalen,70825,NSI,Station
+1,YCDA,Nanaimo,Canada,YCD,Nanaimo,95396,YCD,Station
+0,AARH,Aarhus,Denmark,AAR,Aarhus,40018,AAR,Station
+0,ADLE,Sochi,Russia,AER,Sochi,40210,AER,Station
+0,AMAA,Amarillo,United States,AMA,Amarillo International,40577,AMA,Station
+1,CRWA,Charleston,United States,CRW,Charleston,45447,CRW,Station
+1,EVVA,Evansville,United States,EVV,Evansville,50246,EVV,Station
+1,GIBR,Gibraltar,Gibraltar,GIB,Gibraltar,54210,GIB,Station
+1,IGOI,Goa,India,GOI,Goa,54505,GOI,Station
+0,AGEN,Agen,France,AGF,Agen,40294,AGF,Station
+0,ANUA,Saint John's,Antigua and Barbuda,ANU,Saint John's,40645,ANU,Station
+1,JONK,Jonkoping Axamo,Sweden,JKG,Jonkoping Axamo,61223,JKG,Station
+1,OLBI,Olbia,Italy,OLB,Olbia,72786,OLB,Station
+2,REGG,Reggio Calabria,Italy,REG,Reggio Calabria,79367,REG,Station
+1,REPK,Siem Reap,Cambodia,REP,Siem Reap,79376,REP,Station
+2,SHAR,Sharm El Sheikh,Egypt,SSH,Sharm El Sheikh,82344,SSH,Station
+0,CASU,Castres Mazamet,France,DCM,Castres Mazamet,47021,DCM,Station
+1,DRWA,Darwin,Australia,DRW,Darwin,47751,DRW,Station
+1,JHBM,Johor Bahru,Malaysia,JHB,Johor Bahru,61074,JHB,Station
+1,MLBA,Melbourne,United States,MLB,Melbourne,68178,MLB,Station
+1,SIBI,Sibiu,Romania,SBZ,Sibiu,81546,SBZ,Station
+1,CSHE,Shenyang,China,SHE,Shenyang,81813,SHE,Station
+1,STSA,Santa Rosa,United States,STS,Santa Rosa,82403,STS,Station
+1,YYGA,Charlottetown,Canada,YYG,Charlottetown,96455,YYG,Station
+0,ANTW,Antwerp,Belgium,ANR,Antwerp Deurne,40642,ANR,Station
+0,ATWA,Appleton,United States,ATW,Appleton,40935,ATW,Station
+1,KOSI,Kosice,Slovakia,KSC,Kosice,63907,KSC,Station
+2,VIXA,Vitoria,Brazil,VIX,Vitoria,88792,VIX,Station
+0,ASBA,Ashgabat,Turkmenistan,ASB,Ashgabat,40866,ASB,Station
+0,BAST,Bastia - Corsica,France,BIA,Bastia - Corsica,42689,BIA,Station
+1,COOA,Cotonou,Benin,COO,Cotonou,45295,COO,Station
+1,FCAA,Kalispell,United States,FCA,Kalispell,51617,FCA,Station
+1,FDFA,Fort De France,Martinique,FDF,Fort De France,51670,FDF,Station
+1,GBEA,Gaborone,Botswana,GBE,Gaborone,53877,GBE,Station
+2,PAMP,Pamplona,Spain,PNA,Pamplona,75185,PNA,Station
+0,ADAN,Adana,Turkey,ADA,Adana,40145,ADA,Station
+0,ALGS,Alghero Sardinia,Italy,AHO,Alghero Sardinia,40351,AHO,Station
+0,BODR,Bodrum,Turkey,BJV,Bodrum,42758,BJV,Station
+1,CHEL,Chelyabinsk,Russia,CEK,Chelyabinsk,44811,CEK,Station
+1,CORF,Corfu,Greece,CFU,Corfu,44869,CFU,Station
+1,SPKA,Sapporo,Japan,CTS,Sapporo Chitose,45539,CTS,Station
+0,DALA,Dalaman,Turkey,DLM,Dalaman,47453,DLM,Station
+1,KBVT,Krabi,Thailand,KBV,Krabi,63110,KBV,Station
+1,ALME,Almeria,Spain,LEI,Almeria,65545,LEI,Station
+1,NJFA,Najaf,Iraq,NJF,Najaf,70390,NJF,Station
+2,TROM,Tromso,Norway,TOS,Tromso,84467,TOS,Station
+1,CCSX,Changsha,China,CSX,Changsha,45496,CSX,Station
+1,KHAB,Khabarovsk Novy,Russia,KHV,Khabarovsk Novy,63398,KHV,Station
+1,ILKO,Lucknow,India,LKO,Lucknow,65839,LKO,Station
+1,MUXA,Multan,Pakistan,MUX,Multan,68632,MUX,Station
+1,PLZA,Port Elizabeth,South Africa,PLZ,Port Elizabeth,75114,PLZ,Station
+2,TIFA,Taif,Saudi Arabia,TIF,Taif,84166,TIF,Station
+1,YXSA,Prince George,Canada,YXS,Prince George,96419,YXS,Station
+1,KOSS,Kos,Greece,KGS,Kos,63347,KGS,Station
+1,LFWA,Lome,Togo,LFW,Lome,65607,LFW,Station
+1,LIRA,Liberia,Costa Rica,LIR,Liberia,65746,LIR,Station
+1,LULE,Lulea Kallax,Sweden,LLA,Lulea Kallax,65873,LLA,Station
+1,PFNA,Panama City,United States,ECP,Northwest Florida Beaches International,49328,ECP,Station
+2,SHVA,Shreveport,United States,SHV,Shreveport Regional,81830,SHV,Station
+1,CHOA,Charlottesville,United States,CHO,Charlottesville,44959,CHO,Station
+1,CDLC,Dalian,China,DLC,Dalian,47443,DLC,Station
+1,GEOA,Georgetown,Guyana,GEO,Georgetown,54031,GEO,Station
+1,LLWA,Lilongwe,Malawi,LLW,Lilongwe,65895,LLW,Station
+1,LRDA,Laredo,United States,LRD,Laredo,66164,LRD,Station
+1,MAAS,Maastricht,Netherlands,MST,Maastricht,68532,MST,Station
+1,NATA,Natal,Brazil,NAT,Natal,69972,NAT,Station
+1,PVRA,Puerto Vallarta,Mexico,PVR,Puerto Vallarta,75586,PVR,Station
+1,RZES,Rzeszow,Poland,RZE,Rzeszow,80373,RZE,Station
+1,TYUM,Tyumen,Russia,TJM,Tyumen,84221,TJM,Station
+1,CZUH,Zhuhai,China,ZUH,Zhuhai,98568,ZUH,Station
+0,BODO,Bodo,Norway,BOO,Bodo,42991,BOO,Station
+0,BTHI,Batam,Indonesia,BTH,Batam,43224,BTH,Station
+0,BYDG,Bydgoszcz,Poland,BZG,Bydgoszcz,43511,BZG,Station
+1,CKYA,Conakry,Guinea,CKY,Conakry,45113,CKY,Station
+1,DADV,Da Nang,Vietnam,DAD,Da Nang,46916,DAD,Station
+1,GYNA,Goiania,Brazil,GYN,Goiania,54990,GYN,Station
+1,IJAI,Jaipur,India,JAI,Jaipur,60745,JAI,Station
+1,MARB,Maracaibo,Venezuela,MAR,Maracaibo,67666,MAR,Station
+1,CNGB,Ningbo,China,NGB,Ningbo,70242,NGB,Station
+2,OUAA,Ouagadougou,Burkina Faso,OUA,Ouagadougou,73217,OUA,Station
+1,STIA,Santiago,Dominican Republic,STI,Santiago,82393,STI,Station
+2,UMEA,Umea,Sweden,UME,Umea,86661,UME,Station
+1,USMT,Koh Samui / Samui Island,Thailand,USM,Koh Samui / Samui Island,86957,USM,Station
+0,AGAD,Agadir,Morocco,AGA,Agadir,40289,AGA,Station
+0,AJAC,Ajaccio,France,AJA,Ajaccio,40433,AJA,Station
+0,AVPA,Wilkes-Barre,United States,AVP,Wilkes-Barre International,41024,AVP,Station
+0,HAUG,Haugesund,Norway,HAU,Haugesund,56149,HAU,Station
+2,ROSA,Rosario,Argentina,ROS,Rosario,79859,ROS,Station
+2,RSTA,Rochester,United States,RST,Rochester Municipal,80052,RST,Station
+1,DYUA,Dushanbe,Tajikistan,DYU,Dushanbe,48085,DYU,Station
+1,FNAA,Freetown,Sierra Leone,FNA,Freetown Lungi International,52145,FNA,Station
+1,ILMA,Wilmington,United States,ILM,Wilmington,58973,ILM,Station
+1,MENO,Menorca,Spain,MAH,Menorca,67656,MAH,Station
+1,MURC,Murcia,Spain,MJV,Murcia,68102,MJV,Station
+1,SCEA,State College,United States,SCE,State College,81573,SCE,Station
+1,TEQA,Tekirdag,Turkey,TEQ,Tekirdag,83985,TEQ,Station
+1,STOC,Stockholm,Sweden,VST,Stockholm Vasteras,89268,VST,Station
+1,YSJA,Saint John,Canada,YSJ,Saint John,96170,YSJ,Station
+0,BJXS,Silao,Mexico,BJX,Silao,42760,BJX,Station
+0,BURG,Bourgas,Bulgaria,BOJ,Bourgas,42986,BOJ,Station
+1,NIZH,Nizhniy Novgorod,Russia,GOJ,Nizhniy Novgorod,54506,GOJ,Station
+0,GAZI,Gaziantep,Turkey,GZT,Gaziantep,55044,GZT,Station
+1,LODZ,Lodz,Poland,LCJ,Lodz,65450,LCJ,Station
+0,LORI,Lorient,France,LRT,Lorient,66180,LRT,Station
+1,SJDA,San Jose Cabo,Mexico,SJD,San Jose Cabo,81908,SJD,Station
+1,TVCA,Traverse City,United States,TVC,Traverse City,84787,TVC,Station
+2,SLUA,Castries,Saint Lucia,UVF,St Lucia Hewanorra,87094,UVF,Station
+1,YNBA,Yanbu,Saudi Arabia,YNB,Yanbu,95922,YNB,Station
+0,IATQ,Amritsar,India,ATQ,Amritsar,40929,ATQ,Station
+0,BGFA,Bangui,Central African Republic,BGF,Bangui,42598,BGF,Station
+0,BWNA,Bandar Seri Begawan,Brunei,BWN,Bandar Seri Begawan,43374,BWN,Station
+0,BZVA,Brazzaville,Congo,BZV,Brazzaville,43526,BZV,Station
+1,CGPA,Chittagong,Bangladesh,CGP,Chittagong,44912,CGP,Station
+1,KALI,Kaliningrad,Russia,KGD,Kaliningrad,63332,KGD,Station
+1,MESI,Medan,Indonesia,KNO,Medan Kuala Namu,63679,KNO,Station
+1,MBSA,Midland,United States,MBS,Midland,67715,MBS,Station
+1,PALA,Palanga,Lithuania,PLQ,Palanga International,75105,PLQ,Station
+0,BJLA,Banjul,Gambia,BJL,Banjul,42748,BJL,Station
+1,CFOC,Fuzhou,China,FOC,Fuzhou,52195,FOC,Station
+1,ISUA,Sulaymaniyah,Iraq,ISU,Sulaymaniyah International,59317,ISU,Station
+1,MIKO,Mykonos,Greece,JMK,Mykonos,61323,JMK,Station
+1,NIMA,Niamey,Niger,NIM,Niamey,70349,NIM,Station
+1,PHFA,Newport News,United States,PHF,Newport News / Williamsb,74902,PHF,Station
+1,POPA,Puerto Plata,Dominican Republic,POP,Puerto Plata,75248,POP,Station
+1,TRAB,Trabzon,Turkey,TZX,Trabzon,85000,TZX,Station
+1,YQUA,Grande Prairie,Canada,YQU,Grande Prairie,96085,YQU,Station
+0,ALTA,Alta,Norway,ALF,Alta,40534,ALF,Station
+1,AUWA,Wausau,United States,CWA,Wausau Central Wisconsin,45665,CWA,Station
+0,BRNO,Brno,Czech Republic,BRQ,Brno-Turany,43137,BRQ,Station
+0,ICCJ,Kozhikode,India,CCJ,Kozhikode,44714,CCJ,Station
+1,CCGO,Zhengzhou,China,CGO,Zhengzhou,44911,CGO,Station
+1,CCGQ,Changchun,China,CGQ,Changchun,44913,CGQ,Station
+1,CJSA,Ciudad Juarez,Mexico,CJS,Ciudad Juarez,45059,CJS,Station
+1,CSLA,San Luis Obispo,United States,SBP,San Luis Obispo County,81536,SBP,Station
+1,CUUA,Chihuahua,Mexico,CUU,Chihuahua,45589,CUU,Station
+0,LOUR,Lourdes,France,LDE,Lourdes,65493,LDE,Station
+2,PLSA,Providenciales,Turks and Caicos Islands,PLS,Providenciales,75107,PLS,Station
+1,SLLA,Salalah,Oman,SLL,Salalah,82012,SLL,Station
+1,KULM,Kuala Lumpur,Malaysia,SZB,Kuala Lumpur Sultan Abdul Azziz Shah,82674,SZB,Station
+0,BJMA,Bujumbura,Burundi,BJM,Bujumbura,42749,BJM,Station
+1,DLHA,Duluth,United States,DLH,Duluth International,47448,DLH,Station
+1,JNUA,Juneau,United States,JNU,Juneau,61381,JNU,Station
+0,KONY,Konya,Turkey,KYA,Konya,64193,KYA,Station
+1,KNOC,Knock,Ireland,NOC,Knock,70627,NOC,Station
+2,SKBA,Basseterre,Saint Kitts and Nevis,SKB,Basseterre,81954,SKB,Station
+1,TRIA,Kingsport,United States,TRI,Tri-Cities,84601,TRI,Station
+1,JUKB,Kobe,Japan,UKB,Kobe,86562,UKB,Station
+1,YQYA,Sydney,Canada,YQY,Sydney,96089,YQY,Station
+0,KAYS,Kayseri,Turkey,ASR,Kayseri,40882,ASR,Station
+1,GIZA,Jazan,Saudi Arabia,GIZ,Jazan,54234,GIZ,Station
+1,NOUN,Noumea,New Caledonia,NOU,Noumea Tontouta,70645,NOU,Station
+2,PNRA,Pointe Noire,Congo,PNR,Pointe Noire,75202,PNR,Station
+2,PULA,Pula,Croatia,PUY,Pula,75545,PUY,Station
+2,QUIM,Quimper,France,UIP,Quimper,86480,UIP,Station
+1,KCHM,Kuching,Malaysia,KCH,Kuching,63144,KCH,Station
+1,KEME,Kemerovo,Russia,KEJ,Kemerovo,63242,KEJ,Station
+1,KUTA,Kutaisi,Georgia,KUT,Kutaisi,64020,KUT,Station
+1,LUXO,Luxor,Egypt,LXR,Luxor,66466,LXR,Station
+1,MOLD,Molde Aro,Norway,MOL,Molde Aro,68332,MOL,Station
+2,SSGA,Malabo,Equatorial Guinea,SSG,Malabo,82343,SSG,Station
+2,SYZA,Shiraz,Iran,SYZ,Shiraz,82650,SYZ,Station
+1,IUDR,Udaipur,India,UDR,Udaipur,86242,UDR,Station
+1,VTEL,Vientiane,Laos,VTE,Vientiane,89301,VTE,Station
+1,ZADA,Zadar,Croatia,ZAD,Zadar,97604,ZAD,Station
+1,HLNA,Helena,United States,HLN,Helena,56670,HLN,Station
+1,IDAA,Idaho Falls,United States,IDA,Idaho Falls,58577,IDA,Station
+1,MLUA,Monroe,United States,MLU,Monroe,68197,MLU,Station
+1,CNNG,Nanning,China,NNG,Nanning,70583,NNG,Station
+1,ORNA,Oran,Algeria,ORN,Ben Bella Airport,73086,ORN,Station
+2,ZAPO,Zaporizhia,Ukraine,OZH,Zaporizhia,73464,OZH,Station
+2,PAPH,Paphos,Cyprus,PFO,Paphos,74815,PFO,Station
+2,LAPA,La Palma,Spain,SPC,La Palma,82195,SPC,Station
+1,VOLH,Volgograd,Russia,VOG,Volgograd,89063,VOG,Station
+1,ZQNN,Queenstown,New Zealand,ZQN,Queenstown,98382,ZQN,Station
+5,LOND,London,United Kingdom,SEN,London Southend,81678,SEN,Station
+2,SJCA,San Jose,United States,SJC,San Jose International,81907,SJC,Station
+2,YYCA,Calgary,Canada,YYC,Calgary,96451,YYC,Station
+2,STLA,St Louis,United States,STL,St Louis,82396,STL,Station
+1,DXBA,Dubai,United Arab Emirates,DWC,Dubai Al Maktoum International,47971,DWC,Station
+1,ORFA,Norfolk,United States,ORF,Norfolk International,73078,ORF,Station
+2,SYRA,Syracuse,United States,SYR,Syracuse,82642,SYR,Station
+1,DSMA,Des Moines,United States,DSM,Des Moines,47789,DSM,Station
+2,TULB,Tulsa,United States,TUL,Tulsa International,84748,TUL,Station
+1,PVDA,Providence,United States,PVD,Providence,75572,PVD,Station
+1,GEGA,Spokane,United States,GEG,Spokane International,54023,GEG,Station
+4,ORLB,Orlando,United States,SFB,Orlando Sanford,81714,SFB,Station
+0,SAOA,Sao Paulo,Brazil,CGH,Sao Paulo Congonhas,44904,CGH,Station
+0,ROME,Rome,Italy,CIA,Rome Ciampino,44993,CIA,Station
+3,MOSC,Moscow,Russia,ZIA,Zhukovsky International,97985,ZIA,Station
+2,STOC,Stockholm,Sweden,NYO,Stockholm Skavsta,71119,NYO,Station
+0,BJSA,Beijing,China,NAY,Beijing Nanyuan,69977,NAY,Station
+3,,,,,Anguilla,841,AI,Country
+8,,,,,American Samoa,851,AS,Country
+24,,,,,Bolivia,895,BO,Country
+33,,,,,Crimea,933,CE,Country
+38,,,,,Cook Islands,939,CK,Country
+45,,,,,Cape Verde,950,CV,Country
+52,,,,,Dominica,989,DM,Country
+63,,,,,Faroe Islands,1087,FO,Country
+69,,,,,Guernsey,1127,GG,Country
+72,,,,,Greenland,1132,GL,Country
+80,,,,,Guinea-Bissau,1143,GW,Country
+81,,,,,Guyana,1145,GY,Country
+85,,,,,Haiti,1188,HT,Country
+104,,,,,North Korea,1328,KP,Country
+117,,,,,Libya,1385,LY,Country
+119,,,,,Monaco,1411,MC,Country
+138,,,,,New Caledonia,1459,NC,Country
+150,,,,,Papua New Guinea,1559,PG,Country
+157,,,,,Paraguay,1577,PY,Country
+165,,,,,Solomon Islands,1698,SB,Country
+177,,,,,Sao Tome and Principe,1716,ST,Country
+184,,,,,Tajikistan,1754,TJ,Country
+187,,,,,Tonga,1759,TO,Country
+197,,,,,Uzbekistan,1818,UZ,Country
+198,,,,,Saint Vincent and the Grenadines,1843,VC,Country
+200,,,,,British Virgin Islands,1847,VG,Country
+203,,,,,Vanuatu,1861,VU,Country
+204,,,,,Samoa,1907,WS,Country
+218,APWW,Apia,Samoa,APW,Apia Faleolo,40743,APW,Station
+220,ASMA,Asmara,Eritrea,ASM,Asmara,40877,ASM,Station
+223,AXAA,The Valley,Anguilla,AXA,The Valley,41105,AXA,Station
+225,BDAA,Hamilton,Bermuda,BDA,L.F. Wade International Airport,42449,BDA,Station
+236,BONA,Bonaire,Caribbean Netherlands,BON,Bonaire,42990,BON,Station
+248,CONS,Constanta Kogalniceanu,Romania,CND,Constanta Kogalniceanu,45236,CND,Station
+251,CTGA,Cartagena,Colombia,CTG,Cartagena,45527,CTG,Station
+258,DOMA,Dominica,Dominica,DOM,Dominica Melville Hall,47597,DOM,Station
+263,EISA,Beef Island,British Virgin Islands,EIS,Beef Island,49619,EIS,Station
+266,SORV,Sorvagur,Faroe Islands,FAE,Sorvagur,51525,FAE,Station
+271,FNJA,Pyongyang,North Korea,FNJ,Pyongyang,52154,FNJ,Station
+276,GUER,Guernsey,Guernsey,GCI,Guernsey,53929,GCI,Station
+277,GCMA,Grand Cayman Island,Cayman Islands,GCM,Grand Cayman Island,53933,GCM,Station
+280,GNDA,St. George,Grenada,GND,St. George,54452,GND,Station
+281,GOHA,Nuuk,Greenland,GOH,Nuuk,54504,GOH,Station
+287,YVAA,Moroni,Comoros,HAH,Moroni Prince Said Ibrahim In,56136,HAH,Station
+291,HGAA,Hargeisa,Somalia,HGA,Hargeisa,56417,HGA,Station
+292,HIRA,Honiara,Solomon Islands,HIR,Honiara,56530,HIR,Station
+328,MCMA,Monte Carlo,Monaco,MCM,Monte Carlo,67757,MCM,Station
+331,MFMA,Macau,Macau,MFM,Macau,67901,MFM,Station
+333,MIDA,Merida,Mexico,MID,Merida,68036,MID,Station
+347,NLAA,Ndola,Zambia,NLA,Ndola,70481,NLA,Station
+353,PONT,Ponta Delgada,Portugal,PDL,Ponta Delgada,74716,PDL,Station
+357,POMP,Port Moresby,Papua New Guinea,POM,Port Moresby,75245,POM,Station
+359,PPGA,Pago Pago,American Samoa,PPG,Pago Pago,75287,PPG,Station
+360,PPTP,Papeete,French Polynesia,PPT,Papeete,75300,PPT,Station
+365,RAIA,Praia,Cape Verde,RAI,Praia,79177,RAI,Station
+367,RARC,Rarotonga,Cook Islands,RAR,Rarotonga,79186,RAR,Station
+370,MLWA,Monrovia,Liberia,ROB,Monrovia Roberts,79842,ROB,Station
+371,RORA,Koror,Palau,ROR,Koror,79858,ROR,Station
+378,SIMF,Simferopol,Crimea,SIP,Simferopol,81872,SIP,Station
+387,STTA,Saint Thomas,US Virgin Islands,STT,Saint Thomas Cyril E King,82404,STT,Station
+388,SVDA,Kingstown,Saint Vincent and the Grenadines,SVD,Kingstown,82484,SVD,Station
+391,SZCZ,Szczecin,Poland,SZZ,Szczecin Goleniow,82698,SZZ,Station
+392,TASA,Tashkent,Uzbekistan,TAS,Tashkent,83795,TAS,Station
+394,TONG,Tongatapu,Tonga,TBU,Tongatapu,83845,TBU,Station
+395,PODG,Podgorica,Montenegro,TGD,Podgorica,84068,TGD,Station
+397,TIPA,Tripoli,Libya,TIP,Tripoli,84176,TIP,Station
+407,VLIV,Port Vila,Vanuatu,VLI,Port Vila,88921,VLI,Station
+21,,,,,Saint Barthelemy,892,BL,Country
+62,,,,,Micronesia,1085,FM,Country
+100,,,,,Kiribati,1321,KI,Country
+122,,,,,Marshall Islands,1416,MH,Country
+146,,,,,Niue,1477,NU,Country
+181,,,,,Swaziland,1722,SZ,Country
+187,,,,,East Timor,1756,TL,Country
+244,CAYA,Cayenne,French Guiana,CAY,Cayenne,44633,CAY,Station
+253,CXIA,Christmas Island,Kiribati,CXI,Christmas Island,45721,CXI,Station
+258,DILA,Dili,East Timor,DIL,Dili,47308,DIL,Station
+267,DZAA,Dzaoudzi,Mayotte,DZA,Dzaoudzi,48113,DZA,Station
+307,KSAA,Kosrae,Micronesia,KSA,Kosrae,63905,KSA,Station
+325,LPQL,Luang Prabang,Laos,LPQ,Luang Prabang,66081,LPQ,Station
+329,MAJA,Majuro,Marshall Islands,MAJ,Majuro,67658,MAJ,Station
+349,NKCA,Nouakchott,Mauritania,NKC,Nouakchott,70435,NKC,Station
+355,OXBA,Bissau,Guinea-Bissau,OXB,Bissau,73362,OXB,Station
+377,SBHA,St Barthelemy,Saint Barthelemy,SBH,St Barthelemy,81528,SBH,Station
+383,MTSA,Manzini,Swaziland,SHO,King Mswati III,81823,SHO,Station
+391,SPNA,Saipan,Northern Mariana Islands,SPN,Saipan,82206,SPN,Station
+406,TMSA,Sao Tome Is,Sao Tome and Principe,TMS,Sao Tome Is,84371,TMS,Station

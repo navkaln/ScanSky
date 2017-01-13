@@ -1,0 +1,219 @@
+Name,PlaceId,SkyscannerCode,Type
+United Arab Emirates,837,AE,Country
+Afghanistan,838,AF,Country
+Antigua and Barbuda,839,AG,Country
+Albania,844,AL,Country
+Armenia,845,AM,Country
+Angola,847,AO,Country
+Argentina,850,AR,Country
+Austria,852,AT,Country
+Australia,853,AU,Country
+Aruba,855,AW,Country
+Azerbaijan,858,AZ,Country
+Bosnia and Herzegovina,881,BA,Country
+Barbados,882,BB,Country
+Bangladesh,884,BD,Country
+Belgium,885,BE,Country
+Burkina Faso,886,BF,Country
+Bulgaria,887,BG,Country
+Bahrain,888,BH,Country
+Burundi,889,BI,Country
+Benin,890,BJ,Country
+Bermuda,893,BM,Country
+Brunei,894,BN,Country
+Caribbean Netherlands,897,BQ,Country
+Brazil,898,BR,Country
+Bahamas,899,BS,Country
+Botswana,903,BW,Country
+Belarus,905,BY,Country
+Belize,906,BZ,Country
+Canada,929,CA,Country
+DR Congo,932,CD,Country
+Central African Republic,934,CF,Country
+Congo,935,CG,Country
+Switzerland,936,CH,Country
+Ivory Coast,937,CI,Country
+Chile,940,CL,Country
+Cameroon,941,CM,Country
+China,942,CN,Country
+Colombia,943,CO,Country
+Costa Rica,946,CR,Country
+Cuba,949,CU,Country
+Curacao,951,CW,Country
+Cyprus,953,CY,Country
+Czech Republic,954,CZ,Country
+Germany,981,DE,Country
+Djibouti,986,DJ,Country
+Denmark,987,DK,Country
+Dominican Republic,991,DO,Country
+Algeria,1002,DZ,Country
+Ecuador,1027,EC,Country
+Estonia,1029,EE,Country
+Egypt,1031,EG,Country
+Eritrea,1042,ER,Country
+Spain,1043,ES,Country
+Ethiopia,1044,ET,Country
+Finland,1081,FI,Country
+Fiji,1082,FJ,Country
+France,1090,FR,Country
+Gabon,1121,GA,Country
+Grenada,1124,GD,Country
+Georgia,1125,GE,Country
+French Guiana,1126,GF,Country
+Ghana,1128,GH,Country
+Gibraltar,1129,GI,Country
+Gambia,1133,GM,Country
+Guinea,1134,GN,Country
+Guadeloupe,1136,GP,Country
+Equatorial Guinea,1137,GQ,Country
+Greece,1138,GR,Country
+Guatemala,1140,GT,Country
+Guam,1141,GU,Country
+Hong Kong,1179,HK,Country
+Honduras,1182,HN,Country
+Croatia,1186,HR,Country
+Hungary,1189,HU,Country
+Indonesia,1220,ID,Country
+Ireland,1221,IE,Country
+Israel,1228,IL,Country
+India,1230,IN,Country
+Iraq,1233,IQ,Country
+Iran,1234,IR,Country
+Iceland,1235,IS,Country
+Italy,1236,IT,Country
+Jamaica,1277,JM,Country
+Jordan,1279,JO,Country
+Japan,1280,JP,Country
+Kenya,1317,KE,Country
+Kyrgyzstan,1319,KG,Country
+Cambodia,1320,KH,Country
+Comoros,1325,KM,Country
+Saint Kitts and Nevis,1326,KN,Country
+Kosovo,1327,KO,Country
+South Korea,1330,KR,Country
+Kuwait,1335,KW,Country
+Cayman Islands,1337,KY,Country
+Kazakhstan,1338,KZ,Country
+Laos,1361,LA,Country
+Lebanon,1362,LB,Country
+Saint Lucia,1363,LC,Country
+Sri Lanka,1371,LK,Country
+Liberia,1378,LR,Country
+Lithuania,1380,LT,Country
+Luxembourg,1381,LU,Country
+Latvia,1382,LV,Country
+Morocco,1409,MA,Country
+Moldova,1412,MD,Country
+Montenegro,1413,ME,Country
+Madagascar,1415,MG,Country
+Republic of Macedonia,1419,MK,Country
+Mali,1420,ML,Country
+Myanmar,1421,MM,Country
+Mongolia,1422,MN,Country
+Macau,1423,MO,Country
+Northern Mariana Islands,1424,MP,Country
+Martinique,1425,MQ,Country
+Mauritania,1426,MR,Country
+Malta,1428,MT,Country
+Mauritius,1429,MU,Country
+Maldives,1430,MV,Country
+Malawi,1431,MW,Country
+Mexico,1432,MX,Country
+Malaysia,1433,MY,Country
+Mozambique,1434,MZ,Country
+Namibia,1457,,Country
+Niger,1461,NE,Country
+Nigeria,1463,NG,Country
+Nicaragua,1465,NI,Country
+Netherlands,1468,NL,Country
+Norway,1471,NO,Country
+Nepal,1472,NP,Country
+New Zealand,1482,NZ,Country
+Oman,1517,OM,Country
+Panama,1553,PA,Country
+Peru,1557,PE,Country
+French Polynesia,1558,PF,Country
+Philippines,1560,PH,Country
+Pakistan,1563,PK,Country
+Poland,1564,PL,Country
+Puerto Rico,1570,PR,Country
+Portugal,1572,PT,Country
+Palau,1575,PW,Country
+Qatar,1601,QA,Country
+Reunion,1653,RE,Country
+Romania,1663,RO,Country
+Serbia,1667,RS,Country
+Russia,1669,RU,Country
+Rwanda,1671,RW,Country
+Saudi Arabia,1697,SA,Country
+Seychelles,1699,SC,Country
+Sudan,1700,SD,Country
+Sweden,1701,SE,Country
+Singapore,1703,SG,Country
+Slovenia,1705,SI,Country
+Slovakia,1707,SK,Country
+Sierra Leone,1708,SL,Country
+Senegal,1710,SN,Country
+Somalia,1711,SO,Country
+Suriname,1714,SR,Country
+South Sudan,1715,SS,Country
+El Salvador,1718,SV,Country
+St Maarten,1720,SX,Country
+Syria,1721,SY,Country
+Turks and Caicos Islands,1747,TC,Country
+Chad,1748,TD,Country
+Togo,1751,TG,Country
+Thailand,1752,TH,Country
+Turkmenistan,1757,TM,Country
+Tunisia,1758,TN,Country
+Turkey,1762,TR,Country
+Trinidad and Tobago,1764,TT,Country
+Taiwan,1767,TW,Country
+Tanzania,1770,TZ,Country
+Ukraine,1793,UA,Country
+Uganda,1799,UG,Country
+United Kingdom,1803,UK,Country
+United States,1811,US,Country
+Uruguay,1817,UY,Country
+Venezuela,1845,VE,Country
+US Virgin Islands,1849,VI,Country
+Vietnam,1854,VN,Country
+Mayotte,2004,YT,Country
+South Africa,2033,ZA,Country
+Zambia,2045,ZM,Country
+Zimbabwe,2055,ZW,Country
+Anguilla,841,AI,Country
+American Samoa,851,AS,Country
+Bolivia,895,BO,Country
+Crimea,933,CE,Country
+Cook Islands,939,CK,Country
+Cape Verde,950,CV,Country
+Dominica,989,DM,Country
+Faroe Islands,1087,FO,Country
+Guernsey,1127,GG,Country
+Greenland,1132,GL,Country
+Guinea-Bissau,1143,GW,Country
+Guyana,1145,GY,Country
+Haiti,1188,HT,Country
+North Korea,1328,KP,Country
+Libya,1385,LY,Country
+Monaco,1411,MC,Country
+New Caledonia,1459,NC,Country
+Papua New Guinea,1559,PG,Country
+Paraguay,1577,PY,Country
+Solomon Islands,1698,SB,Country
+Sao Tome and Principe,1716,ST,Country
+Tajikistan,1754,TJ,Country
+Tonga,1759,TO,Country
+Uzbekistan,1818,UZ,Country
+Saint Vincent and the Grenadines,1843,VC,Country
+British Virgin Islands,1847,VG,Country
+Vanuatu,1861,VU,Country
+Samoa,1907,WS,Country
+Saint Barthelemy,892,BL,Country
+Micronesia,1085,FM,Country
+Kiribati,1321,KI,Country
+Marshall Islands,1416,MH,Country
+Niue,1477,NU,Country
+Swaziland,1722,SZ,Country
+East Timor,1756,TL,Country
